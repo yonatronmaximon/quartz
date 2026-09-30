@@ -2,7 +2,7 @@
 title: 🌌 The Experimental Physics Archive
 layout: layout
 ---
-
+$\alpha = 4$ 
 # Welcome to the Archive
 This digital garden is a collection of my research into the experiments that defined modern physics. 
 
