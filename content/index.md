@@ -1,9 +1,10 @@
 ---
-title: "The History of Physics: 350 Years of Understanding our World"
+title: "The History of Physics: Over 300 Years of Unravelling the World"
 layout: layout
+banner: banner.jpg
+bannerAlt: A diagram from Newton's Principia beside a Higgs boson event display
+bannerCaption: "Left: A page from Isaac Newton's Principia (1687), showing his geometric analysis of motion. Right: The 2012 discovery of the Higgs boson at CERN's Large Hadron Collider — the quantum of the field that gives elementary particles their mass."
 ---
-
-![A diagram from Newton's Principia beside a Higgs boson event display](banner.jpg)
 
 I write about the experiments that built modern physics: the apparatus, the data, and the arguments behind the theories. I pay attention to the wrong turns, not just the results.
 
